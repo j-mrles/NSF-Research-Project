@@ -1,5 +1,7 @@
 # Project Overview: Teaching Software Programming to Non-Programmers with LLMs
 
+![res_pres](https://github.com/j-mrles/NSF-Research-Project/assets/102753009/956b0d23-a3e5-41b7-8b4c-e30ac4f3c5fd)
+
 ## Introduction
 Hi there! I'm deeply passionate about making software programming accessible to everyone, especially those without a prior background in coding. Recognizing the potential of Large Language Models (LLMs) as educational tools, my project aims to leverage them to teach software programming to non-programmers. Through a combination of video tutorials, study plans, and prompt engineering, I believe we can democratize the learning process of software development.
 
@@ -10,6 +12,7 @@ The main goals of my project are threefold:
 2. **Develop Language-Based Training Materials**: Drawing on the insights gained, I'm creating a suite of language-based tutorials and study plans tailored for non-programmers. These resources aim to introduce fundamental programming concepts and languages in a digestible, engaging manner.
    
 3. **Identify Strengths and Weaknesses of LLMs**: A critical part of my research is analyzing the pros and cons of using LLMs as teaching aids. By understanding their limitations and areas of strength, I hope to integrate LLMs with traditional teaching methods to offer a comprehensive learning experience.
+![research](https://github.com/j-mrles/NSF-Research-Project/assets/102753009/1187bd73-82d8-4dc3-ad36-de8851049676)
 
 ## Methodology
 My approach is built on mixed methods that include:

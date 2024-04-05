@@ -1,4 +1,7 @@
+
+
 Introduction
+
 Hi there! I'm deeply passionate about making software programming accessible to everyone, especially those without a prior background in coding. Recognizing the potential of Large Language Models (LLMs) as educational tools, my project aims to leverage them to teach software programming to non-programmers. Through a combination of video tutorials, study plans, and prompt engineering, I believe we can democratize the learning process of software development.
 
 Project Objectives
